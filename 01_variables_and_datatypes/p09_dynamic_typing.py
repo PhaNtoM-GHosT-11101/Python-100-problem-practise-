@@ -10,4 +10,11 @@ Demonstrate Python's dynamic typing in action.
 
 # Write your solution below:
 
+x =2 
+print(type(x))
 
+x ='2' 
+print(type(x))
+
+x =[2] 
+print(type(x))

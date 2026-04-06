@@ -34,9 +34,9 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 - [x] P04 · String-to-number operations
 - [x] P05 · isinstance() checks
 - [ ] P06 · Memory identity & integer caching
-- [ ] P07 · Constants convention + circle area
-- [ ] P08 · Augmented assignment operators
-- [ ] P09 · Dynamic typing demo
+- [x] P07 · Constants convention + circle area
+- [x] P08 · Augmented assignment operators
+- [x] P09 · Dynamic typing demo
 - [ ] P10 · NoneType and identity
 
 ### 02 · Strings

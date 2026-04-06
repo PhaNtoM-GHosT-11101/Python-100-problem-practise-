@@ -13,5 +13,10 @@ Output: Area = 153.938...
 """
 
 # Write your solution below:
+def area(radius):
+    PI = 3.14159
+    return (PI*radius*radius)
 
+k=area(1)
+print(k)
 

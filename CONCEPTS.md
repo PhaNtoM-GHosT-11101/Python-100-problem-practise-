@@ -65,3 +65,4 @@ Use `>` for callouts and `---` to separate sections.
 )
   - this takes str as input 
 - isinstance(object, classinfo) returns True if the object is an instance of the specified class.
+- In Python, constants are written in ALL_CAPS by convention.
