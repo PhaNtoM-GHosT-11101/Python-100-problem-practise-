@@ -28,9 +28,9 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 > Update the checkboxes as you complete each problem.
 
 ### 01 · Variables & Data Types
-- [ ] P01 · Swap variables without temp
-- [ ] P02 · Type conversion (int/str/bool)
-- [ ] P03 · Multiple assignment
+- [x] P01 · Swap variables without temp
+- [x] P02 · Type conversion (int/str/bool)
+- [x] P03 · Multiple assignment
 - [ ] P04 · String-to-number operations
 - [ ] P05 · isinstance() checks
 - [ ] P06 · Memory identity & integer caching

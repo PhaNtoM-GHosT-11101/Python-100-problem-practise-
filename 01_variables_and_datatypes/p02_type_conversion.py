@@ -12,5 +12,10 @@ Output:
 """
 
 # Write your solution below:
+f_n= float(input("Enter a Floating number"))
+print(type(f_n))
+i = int(f_n)
+s = str(f_n)
+b = bool(f_n)
 
-
+print(i,s,b)

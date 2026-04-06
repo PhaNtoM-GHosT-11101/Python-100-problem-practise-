@@ -9,4 +9,8 @@ Output: 6
 
 # Write your solution below:
 
+x,y,z = (input("Enter the 3 numbers separated via space: ").split()
+)
+print("sum = ",end=" ")
+print(int(x)+int(y)+int(z))
 
