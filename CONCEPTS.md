@@ -63,4 +63,4 @@ Use `>` for callouts and `---` to separate sections.
 - bool of anything is 1 but 0.
 - taking multiple inputs in a single line = x,y,z = (input("Enter the 3 numbers separated via space: ").split()
 )
- - this takes str as input 
+  - this takes str as input 

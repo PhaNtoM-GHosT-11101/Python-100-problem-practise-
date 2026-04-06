@@ -31,7 +31,7 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 - [x] P01 · Swap variables without temp
 - [x] P02 · Type conversion (int/str/bool)
 - [x] P03 · Multiple assignment
-- [ ] P04 · String-to-number operations
+- [x] P04 · String-to-number operations
 - [ ] P05 · isinstance() checks
 - [ ] P06 · Memory identity & integer caching
 - [ ] P07 · Constants convention + circle area

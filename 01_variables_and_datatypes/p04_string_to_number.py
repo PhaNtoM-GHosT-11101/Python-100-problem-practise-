@@ -12,4 +12,10 @@ Output:
 
 # Write your solution below:
 
+def concat(a,b):
+    print(a+b)
+def add(a,b):
+    print(int(a)+int(b))
 
+concat("25",'30')
+add("25",'30')
