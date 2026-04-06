@@ -12,5 +12,11 @@ Expected Output (6 lines of True):
 
 # Write your solution below:
 
+a,b,c,d,e,f = 1,1.0,"1",True,[1],{"a":1}
 
-
+print(isinstance(a,int))
+print(isinstance(b,float))
+print(isinstance(c,str))
+print(isinstance(d,bool))
+print(isinstance(e,list))
+print(isinstance(f,dict))

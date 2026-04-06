@@ -32,7 +32,7 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 - [x] P02 · Type conversion (int/str/bool)
 - [x] P03 · Multiple assignment
 - [x] P04 · String-to-number operations
-- [ ] P05 · isinstance() checks
+- [x] P05 · isinstance() checks
 - [ ] P06 · Memory identity & integer caching
 - [ ] P07 · Constants convention + circle area
 - [ ] P08 · Augmented assignment operators

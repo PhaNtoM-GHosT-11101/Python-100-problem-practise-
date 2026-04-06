@@ -64,3 +64,4 @@ Use `>` for callouts and `---` to separate sections.
 - taking multiple inputs in a single line = x,y,z = (input("Enter the 3 numbers separated via space: ").split()
 )
   - this takes str as input 
+- isinstance(object, classinfo) returns True if the object is an instance of the specified class.
