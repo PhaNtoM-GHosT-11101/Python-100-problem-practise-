@@ -153,22 +153,7 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 
 ---
 
-## 🚀 How to Use
 
-```bash
-# Clone the repo
-git clone https://github.com/PhaNtoM-GHosT-11101/python-100-problems
-cd python-100-problems
-
-# Work on a problem
-cd 01_variables_and_datatypes
-python p01_swap_variables.py
-
-# Commit your solution
-git add .
-git commit -m "solve: P01 swap variables"
-git push
-```
 
 ## 📌 Commit Convention
 ```
