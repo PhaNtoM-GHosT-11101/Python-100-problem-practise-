@@ -155,17 +155,7 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 
 
 
-## 📌 Commit Convention
-```
-solve: P{number} {short description}
-```
-Examples:
-```
-solve: P15 anagram check using sorted()
-solve: P82 DP knapsack bottom-up tabulation
-solve: P100 CLI task manager capstone
-```
 
 ---
 
-*Started: April 2026 · NIT Agartala · Computational Mathematics*
+*Started: 6 April 2026 · Aditya Priyadarshi · NIT Agartala · Computational Mathematics  *
