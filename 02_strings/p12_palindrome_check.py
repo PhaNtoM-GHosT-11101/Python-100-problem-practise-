@@ -9,5 +9,15 @@ Output: True
 """
 
 # Write your solution below:
+def isPalindrome(string):
+    return string.lower().replace(" ","")==string.lower().replace(" ","")[::-1]
+
+    
+
+
+
+string = 'A man a plan a canal Panama'
+
+print(isPalindrome(string))
 
 

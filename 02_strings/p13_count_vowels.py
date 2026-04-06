@@ -9,5 +9,12 @@ Output: 9
 """
 
 # Write your solution below:
-
-
+def countVowels(inp):
+    inp = inp.lower()
+    count = 0 
+    for i in inp:
+        if i in ('a', 'e', 'i', 'o', 'u'):
+            count+=1
+    return count
+inp = "Computational Mathematics"
+print(countVowels(inp))

@@ -40,9 +40,9 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 - [ ] P10 · NoneType and identity
 
 ### 02 · Strings
-- [ ] P11 · Reverse a string
-- [ ] P12 · Palindrome check
-- [ ] P13 · Count vowels
+- [x] P11 · Reverse a string
+- [x] P12 · Palindrome check
+- [x] P13 · Count vowels
 - [ ] P14 · Title case without .title()
 - [ ] P15 · Anagram check
 - [ ] P16 · String compression

@@ -8,4 +8,5 @@ Output: !dlroW ,olleH
 
 # Write your solution below:
 
-
+string="Hello, World!"
+print(string[::-1])
