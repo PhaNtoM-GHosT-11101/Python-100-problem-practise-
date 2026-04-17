@@ -10,4 +10,16 @@ Output: True
 
 # Write your solution below:
 
+def Anagram(a,b):
+    lista=[]
+    listb=[]
+    for i in a:
+        lista.append(ord(i))
+    for i in b:
+        listb.append(ord(i))
+    lista.sort()
+    listb.sort()
 
+    return (lista==listb)
+
+Anagram("listen", "silent")

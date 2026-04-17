@@ -44,7 +44,7 @@ A structured, folder-wise practice repository of 100 Python problems — from fu
 - [x] P12 · Palindrome check
 - [x] P13 · Count vowels
 - [ ] P14 · Title case without .title()
-- [ ] P15 · Anagram check
+- [X] P15 · Anagram check
 - [ ] P16 · String compression
 - [ ] P17 · Caesar cipher
 - [ ] P18 · Word frequency counter

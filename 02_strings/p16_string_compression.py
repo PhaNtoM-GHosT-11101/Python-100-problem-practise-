@@ -12,5 +12,10 @@ Output: "abc"   (compressed "a1b1c1" is longer)
 """
 
 # Write your solution below:
+input='aabcccccaaa'
+output=''
+
+for i in input:
+    if i 
 
 
